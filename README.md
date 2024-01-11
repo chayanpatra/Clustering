@@ -5,27 +5,33 @@ Founded in 1997 by Marc and Reed in Los Gatos, California, Netflix has grown int
 ### Exploratory Data Analysis (EDA):
 
 Uncover patterns and trends within the Netflix dataset.
+
 Utilize visualizations to enhance understanding of the content landscape.
 
 ### Handling Missing Values and Outliers:
 
 Address any gaps or inconsistencies in the dataset.
+
 Implement strategies to handle outliers, ensuring data integrity.
 
 ### Content Analysis Across Countries:
 
 Examine the types of content available in various countries.
+
 Identify regional preferences and variations in Netflix's content library.
 
 ### Focus on TV vs. Movies:
 
 Investigate whether Netflix has shifted focus towards TV shows.
+
 Analyze trends over recent years to determine changes in content distribution.
 
 ### Cluster Formation Strategy:
 
 Develop a concise strategy for forming clusters within the dataset.
+
 Consider factors such as genre, viewer ratings, and regional preferences.
+
 Utilize appropriate clustering algorithms for effective grouping.
 
 ### Conclusion:
